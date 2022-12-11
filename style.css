@@ -1,0 +1,22 @@
+.wrapper {
+  display: flex;
+  font-family: 'Microsoft Yahei';
+  flex-direction: column;
+
+  width: 1000px;
+  margin: 0 auto;
+}
+
+hr {
+  width: 100%;
+  color: #555; /*для IE */
+  background-color: #555; /*для Firefox, Opera, Safari*/
+  border: 0px none;
+  height: 1.5px; /* высота 1px IE, Firefox, Opera, Safari */
+  clear: both; /* для очистки, если тег идет после float елемента */
+}
+
+a {
+  text-decoration: none;
+  color: #0366d6;
+}
