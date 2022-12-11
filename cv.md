@@ -12,11 +12,6 @@
 - [GitHub](https://github.com/Vadimshidlov)
 - [Linkedin](https://www.linkedin.com/in/vadim-shidlou-23b512258/)
 
-- Phone: +375295163483
-- e-mail: mat23vadim@mail.ru
-- [GitHub](https://github.com/Vadimshidlov)
-- [Linkedin](https://www.linkedin.com/in/vadim-shidlou-23b512258/)
-
 ## About Me
 
 Hi all! I am a beginner frontend developer. I write code in Javascript, HTML and CSS. I have some
